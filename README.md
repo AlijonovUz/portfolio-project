@@ -104,3 +104,6 @@ Kirish ma'lumotlari:
 Xavfsizlik sababli parolni keyinchalik albatta o'zgartiring.
 
 ---
+
+**Frontend dasturchi:** https://github.com/Saboo24/
+**Backend dasturchi:** https://github.com/AlijonovUz/
